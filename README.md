@@ -1,4 +1,4 @@
-# Guia-pr-tico-de-Tarefas-github
+# Guia-pratico-de-Tarefas-github
 
 
 gerenciador-de-tarefas/
